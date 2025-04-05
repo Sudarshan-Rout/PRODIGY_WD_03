@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../PROGIGY_WD_04-main"
+		},
+		{
+			"path": "../../stopwatch-web-application-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "stopwatch-web-application-main"
+	}
+}
